@@ -1,5 +1,5 @@
-# Kookmin University SW
+Jinseon Yoo	20190176
 
-20190176 Jinseon Yoo
+Kookmin Univ. SW
 
-Today is the last day, but for me, it is a new start.
+Software Project 1
